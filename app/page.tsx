@@ -58,8 +58,8 @@ export default function LandingPage() {
                         <div>
                             <h4 className="font-semibold mb-4">Contact</h4>
                             <p className="text-sm text-gray-400">
-                                © 2024 PULSE Insurtech<br />
-                                Tous droits réservés
+                                PULSE simplifie l’assurance à l’usage<br />
+                                la couverture est assurée par des partenaires agréés
                             </p>
                         </div>
                     </div>
