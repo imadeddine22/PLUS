@@ -58,8 +58,8 @@ export default function LandingPage() {
                         <div>
                             <h4 className="font-semibold mb-4">Contact</h4>
                             <p className="text-sm text-gray-400">
-                                PULSE simplifie l’assurance à l’usage<br />
-                                la couverture est assurée par des partenaires agréés
+                                Contact@pulse.dz
+
                             </p>
                         </div>
                     </div>

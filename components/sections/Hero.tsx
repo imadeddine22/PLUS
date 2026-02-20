@@ -67,8 +67,8 @@ export function Hero() {
                             <div className="absolute inset-0 flex items-center justify-center">
                                 <div className="w-48 h-48 rounded-full bg-pulse-accent/30 flex items-center justify-center">
                                     <svg width="96" height="96" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M50 8L14 24v26c0 22 16 41 36 48 20-7 36-26 36-48V24L50 8z" stroke="#22d3ee" strokeWidth="7" strokeLinejoin="round" fill="none" />
-                                        <polyline points="22,50 34,50 40,36 50,64 60,42 66,50 78,50" stroke="#22d3ee" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+                                        <path d="M50 8L14 24v26c0 22 16 41 36 48 20-7 36-26 36-48V24L50 8z" stroke="#ffffffff" strokeWidth="7" strokeLinejoin="round" fill="none" />
+                                        <polyline points="22,50 34,50 40,36 50,64 60,42 66,50 78,50" stroke="#ffffffff" strokeWidth="7" strokeLinecap="round" strokeLinejoin="round" fill="none" />
                                     </svg>
                                 </div>
                             </div>
